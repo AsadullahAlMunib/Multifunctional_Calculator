@@ -26,4 +26,5 @@ This calculator is developed using such a C compiler that supports the **_<conio
 Therefore, if you want to use it, you need to use A compiler that supports the <conio.h> Header File.
 
 
-***Note:*** If you don't have the **<conio.h> Header File**, you can use the 2nd Program: 2_Multifunctional_Calculator.c
+
+***Note:*** If you don't have the **<conio.h> Header File**, you can use the 2nd Program: **[2_Multifunctional_Calculator.c](https://github.com/AsadullahAlMunib/Multifunctional_Calculator/blob/main/2_Multifunctional_Calculator.c)**
